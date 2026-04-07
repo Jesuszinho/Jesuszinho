@@ -56,7 +56,7 @@ I am passionate about technology and always looking to grow as a developer. I am
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Jesuszinho/Jesuszinho/output/snake.svg?v=4"
+    src="https://raw.githubusercontent.com/Jesuszinho/Jesuszinho/output/snake.svg?v=1"
     style="
       background: radial-gradient(circle, rgba(255,0,0,0.15) 0%, rgba(0,0,0,0) 70%);
       border-radius: 10px;
