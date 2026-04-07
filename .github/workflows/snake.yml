@@ -21,7 +21,7 @@ jobs:
 
       - name: Add glow
         run: |
-          chmod -R 777 dist
+          sudo chmod -R 777 dist
           sed -i 's/<svg /<svg style="filter: drop-shadow(0 0 6px #00F7FF) drop-shadow(0 0 10px #7C3AED);" /' dist/snake.svg
 
       - name: Push to output branch
