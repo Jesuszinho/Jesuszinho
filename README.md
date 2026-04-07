@@ -30,16 +30,16 @@ I am passionate about technology and always looking to grow as a developer. I am
     </a>
     &nbsp;
     <a href="https://github.com/Jesuszinho?tab=stars">
-        <img 
-            src="https://custom-icon-badges.demolab.com/github/stars/Jesuszinho?style=for-the-badge&logo=star&logoColor=white&color=F7B500"
-        />
-    </a>
-    &nbsp;
-    <a href="https://github.com/Jesuszinho?tab=followers">
-        <img 
-            src="https://custom-icon-badges.demolab.com/github/followers/Jesuszinho?style=for-the-badge&logo=github&logoColor=white&color=2EA043"
-        />
-    </a>
+    <img 
+        src="https://img.shields.io/github/stars/Jesuszinho?style=for-the-badge&color=F7B500"
+    />
+</a>
+
+<a href="https://github.com/Jesuszinho?tab=followers">
+    <img 
+        src="https://img.shields.io/github/followers/Jesuszinho?style=for-the-badge&color=2EA043"
+    />
+</a>
 </p>
 
 ---
