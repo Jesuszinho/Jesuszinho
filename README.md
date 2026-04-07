@@ -27,19 +27,7 @@ I am passionate about technology and always looking to grow as a developer. I am
         <img 
             src="https://custom-icon-badges.demolab.com/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&color=8250DF"
         />
-    </a>
-    &nbsp;
-    <a href="https://github.com/Jesuszinho?tab=stars">
-    <img 
-        src="https://img.shields.io/github/stars/Jesuszinho?style=for-the-badge&color=F7B500"
-    />
-</a>
-
-<a href="https://github.com/Jesuszinho?tab=followers">
-    <img 
-        src="https://img.shields.io/github/followers/Jesuszinho?style=for-the-badge&color=2EA043"
-    />
-</a>
+  
 </p>
 
 ---
