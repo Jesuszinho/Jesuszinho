@@ -60,6 +60,9 @@ I am passionate about technology and always looking to grow as a developer. I am
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jesuszinho/Jesuszinho/output/github-contribution-grid-snake.svg">
 </picture>
 </p>
+
+---
+
 ## 🎯 Goal
 
 > Focused on becoming a Software Engineer and building scalable, real-world applications.
