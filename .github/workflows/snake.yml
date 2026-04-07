@@ -17,10 +17,11 @@ jobs:
         with:
           github_user_name: Jesuszinho
           outputs: |
-            dist/snake.svg?palette=github-dark&smooth=true&color_snake=#00F7FF,#7C3AED,#F72585&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
+            dist/snake.svg?palette=github-dark&smooth=true&color_snake=#00F7FF,#7C3AED,#F72585
 
-      - name: Add glow + animation
+      - name: Add glow
         run: |
+          chmod -R 777 dist
           sed -i 's/<svg /<svg style="filter: drop-shadow(0 0 6px #00F7FF) drop-shadow(0 0 10px #7C3AED);" /' dist/snake.svg
 
       - name: Push to output branch
