@@ -25,7 +25,7 @@ jobs:
           git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Jesuszinho/Jesuszinho.git repo
           cd repo
           git checkout --orphan output || git checkout output
-          rm -rf .
+          rm -rf * .github || true
           cp -r ../dist/* .
           git add .
           git commit -m "update snake" || echo "no changes"
