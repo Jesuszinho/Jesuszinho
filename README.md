@@ -54,12 +54,10 @@ I am passionate about technology and always looking to grow as a developer. I am
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Jesuszinho/Jesuszinho/output/snake.svg?v=2"
-    style="filter: drop-shadow(0 0 4px #8B0000) drop-shadow(0 0 8px #330000);"
-  />
-</p>
+<img 
+  src="https://raw.githubusercontent.com/Jesuszinho/Jesuszinho/output/snake.svg?v=3"
+  style="filter: drop-shadow(0 0 3px #8B0000) drop-shadow(0 0 6px #330000);"
+/>
 
 ## 🎯 Goal
 
