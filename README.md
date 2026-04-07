@@ -56,7 +56,7 @@ I am passionate about technology and always looking to grow as a developer. I am
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Jesuszinho/Jesuszinho/output/snake.svg"
+    src="https://raw.githubusercontent.com/Jesuszinho/Jesuszinho/output/snake.svg?v=32"
     style="filter: drop-shadow(0 0 6px #FF0000) drop-shadow(0 0 12px #7B0000);"
   />
 </p>
