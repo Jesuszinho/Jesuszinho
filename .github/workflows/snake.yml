@@ -1,35 +1,33 @@
-# Snake game workflow
+name: Generate Snake
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
+      - uses: Platane/snk@v3
         with:
-          node-version: '14'
-      - name: Build
-        run: npm install && npm run build
+          github_user_name: Jesuszinho
+          outputs: |
+            dist/snake.svg?palette=github-dark&smooth=true&color_snake=#8B0000,#B22222,#DC143C&color_dots=#0D1117,#1a1a1a,#330000,#660000,#990000
 
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-      - name: Deploy
-        run: npm run deploy
-
-# Colors
-# Update line 20 to use red and black tones
-    colors: ["red", "black"]
-
-# Effects
-# Update line 25 to use red glow effect
-    effects: ["red glow"]
+      - name: Push to output branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Jesuszinho/Jesuszinho.git repo
+          cd repo
+          git checkout -B output
+          rm -rf * .github || true
+          cp -r ../dist/* .
+          git add .
+          git commit -m "update snake" || echo "no changes"
+          git push origin output --force
