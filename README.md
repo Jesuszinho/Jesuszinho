@@ -19,15 +19,15 @@ I am passionate about technology and always looking to grow as a developer. I am
 <p align="center">
     <a href="https://github.com/Jesuszinho?tab=repositories">
         <img 
-            src="https://custom-icon-badges.demolab.com/badge/Projects-0D1117?style=for-the-badge&logo=repo&logoColor=white&color=1F6FEB"
+            src="https://custom-icon-badges.demolab.com/badge/My%20Repositories-0D1117?style=for-the-badge&logo=repo&logoColor=white&color=1F6FEB&logoWidth=28"
         />
     </a>
     &nbsp;
     <a href="https://github.com/Jesuszinho">
         <img 
-            src="https://custom-icon-badges.demolab.com/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&color=8250DF"
+            src="https://custom-icon-badges.demolab.com/badge/GitHub%20Profile-0D1117?style=for-the-badge&logo=github&logoColor=white&color=8250DF&logoWidth=28"
         />
-  
+    </a>
 </p>
 
 ---
