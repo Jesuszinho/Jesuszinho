@@ -55,16 +55,7 @@ I am passionate about technology and always looking to grow as a developer. I am
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <div align="center" style="
-    background: radial-gradient(circle, rgba(255,0,0,0.15) 0%, rgba(0,0,0,0) 70%);
-    padding: 10px;
-    border-radius: 10px;
-  ">
-    <img 
-      src="https://raw.githubusercontent.com/Jesuszinho/Jesuszinho/output/snake.svg?v=2"
-      style="filter: drop-shadow(0 0 6px #ff0000);"
-    />
-  </div>
+  <img src="https://raw.githubusercontent.com/Jesuszinho/Jesuszinho/output/snake.svg?v=3" />
 </p>
 ## 🎯 Goal
 
