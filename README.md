@@ -53,12 +53,13 @@ I am passionate about technology and always looking to grow as a developer. I am
 ---
 
 ## 🐍 Contribution Snake
-
+<p>
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jesuszinho/Jesuszinho/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jesuszinho/Jesuszinho/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jesuszinho/Jesuszinho/output/github-contribution-grid-snake.svg">
 </picture>
+</p>
 ## 🎯 Goal
 
 > Focused on becoming a Software Engineer and building scalable, real-world applications.
